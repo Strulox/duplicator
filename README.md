@@ -11,20 +11,20 @@ Key uses:<br />
 
 Example usage:
 <pre>
-  py duplicator.py -f input.txt -o output.txt -d , -r 2 -s 2
+  py duplicator.py -f input.txt -d , -r 2 -s 2
 </pre>
 
-<pre>
   input.txt
+<pre>
   {
     "id":%n%.
     "price":10.00.
     "description":"test"
   }
 </pre>
-
+ output
 <pre>
-  output
+ 
   {
     "id":2.
     "price":10.00.

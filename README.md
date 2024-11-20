@@ -2,7 +2,7 @@ Duplicator is an open source tool made to help test the limits of a shopping car
 Duplicator will take a file in and duplicate the contents a user-defined number of times.
 
 Key uses:
--f 	Path to the input file\r\n
+-f 	Path to the input file<br />
 -v 	verbose mode
 -o	output file
 -r	number of times the input should be duplicated
